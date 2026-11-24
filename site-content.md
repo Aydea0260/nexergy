@@ -1,7 +1,8 @@
 # Nexergy Industries — contenido canónico del sitio de constelación (2026-11-24)
 
 Versiones: EN (raíz) · ES (/es/) · PT (/pt/) — pureza total de idioma por versión.
-Paleta 60-30-10: 60% azul marino profundo #0A1F33 · 30% acero claro #E9EEF3 · 10% ámbar #F2A007.
+Paleta oficial (Nexergy Brand Style Guide): 60% blanco #FFFFFF · 30% negro #000000 · 10% amarillo #FFC107.
+Logo oficial: wordmark NEXERGY con X de doble chevrón (logo-official.png, versión blanca sobre negro, de nexergyindustries.com).
 Fuente del contenido: nexergyindustries.com (verificado) + oferta standing de sebastian
 (mano de obra especializada y mantenimiento en toda América, 2026-11-24).
 Regla aplicada: proceso sobre números — sin cifras no aprobadas, sin clientes nombrados.
